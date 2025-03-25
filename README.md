@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on my Security And Network Engineering Master<be>
-- ⚡ Fun fact: I like fixing stuff<be>
+- ⚡ Fun fact: I like breaking/fixing stuff<be>
 - 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piraveen-kd) 
 
 # 💻 Tech Stack:
